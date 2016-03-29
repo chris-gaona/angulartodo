@@ -1,0 +1,25 @@
+{
+  "name": "angularpractice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Angular Practice with: https://medium.com/@TK_CodeBear/getting-started-with-angular-part-3-building-a-to-do-list-ecf31068ac07#.b1bjv0ts9",
+  "repository": "https://github.com/chris-gaona/angulartodo",
+  "license": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "Chris Gaona",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "^1.11.0",
+    "mongoose": "^4.4.6",
+    "morgan": "~1.6.1",
+    "node-sass-middleware": "^0.9.7",
+    "serve-favicon": "~2.3.0"
+  }
+}
